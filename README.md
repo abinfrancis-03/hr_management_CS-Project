@@ -93,9 +93,6 @@ Open your browser and visit:
 
 http://127.0.0.1:8000/
 
-## 📸 Screenshots
-
-Screenshots of the application will be added here.
 
 ## 🎯 Project Purpose
 
